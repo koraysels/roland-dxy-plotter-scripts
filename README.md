@@ -43,5 +43,5 @@ $ pip install -r requirements.txt
 
 
 ```bash
-$ sh ep-to-plotter.sh <your-epsfile>.eps
+$ sh eps-to-plotter.sh <your-epsfile>.eps
 ```
